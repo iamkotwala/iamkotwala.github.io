@@ -1,0 +1,5 @@
+gem 'jekyll-sitemap'
+
+url: "https:// vrajkotwala.com"
+plugins:
+  - jekyll-sitemap
