@@ -1,29 +1,42 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>https://vrajkotwala.com/</loc>
-	<lastmod>2020-05-25T06:20:38+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://vrajkotwala.com/</loc>
+  <lastmod>2020-06-17T07:20:59+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://vrajkotwala.com/assets/CV.pdf</loc>
-	<lastmod>2020-05-25T06:20:38+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://vrajkotwala.com/blog</loc>
+  <lastmod>2020-06-17T07:20:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://vrajkotwala.com/assets/Documentation.pdf</loc>
-	<lastmod>2020-05-25T06:20:41+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://vrajkotwala.com/assets/CV.pdf</loc>
+  <lastmod>2020-06-17T07:20:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://vrajkotwala.com/assets/Project-Completion.pdf</loc>
-	<lastmod>2020-05-25T06:20:44+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://vrajkotwala.com/assets/Documentation.pdf</loc>
+  <lastmod>2020-06-17T07:20:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://vrajkotwala.com/assets/Statement-Originality.pdf</loc>
-	<lastmod>2020-05-25T06:20:43+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://vrajkotwala.com/assets/Project-Completion.pdf</loc>
+  <lastmod>2020-06-17T07:20:54+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://vrajkotwala.com/assets/Statement-Originality.pdf</loc>
+  <lastmod>2020-06-17T07:20:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
